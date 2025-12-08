@@ -3,3 +3,5 @@
 #2 skipping
 #3 waliking
 #4 working
+#5 playing
+#6 sleeping
